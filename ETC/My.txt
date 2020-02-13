@@ -1262,7 +1262,7 @@ vscode 에 java 개발 환경 만들기- https://soolper.tistory.com/6
 html/css- https://www.everdevel.com/HTML/character-set.php
 단숨에 애플 스위프트(Swift) 배우기- https://blog.wonhada.com/?p=1849
 PDF Free???- https://itbook.store/books/9781449390549
- 
+
 뮤토리(guitar)- https://cafe.naver.com/idz
 사파리13- http://www.itworld.co.kr/news/133122
 맥 잘 쓰기- https://it.donga.com/24112/
@@ -1319,7 +1319,7 @@ CCleaner- https://www.ccleaner.com/
 오전 11:09 2019-12-10
   고려대- MCRB00167,
   한양대- 220700402,
-  성균관대- 57597360426, 
+  성균관대- 57597360426,
   경희대-19620269
 
 오전 11:28 2019-12-11
@@ -1341,3 +1341,17 @@ CCleaner- https://www.ccleaner.com/
 
   의준: 010811- 3017513
   지안: 041203- 4017536
+  애현: 730510- 2398943
+
+2020-01-30
+  경희대학교-언어교육원: 27(왕기초영어),13(왕기초영어)
+
+2020-02-06
+  경희대 수험번호: 19620269
+  서울회생법원: 02-530-1114
+    (06594)서울 서초구 서초중앙로 157 서울법원종합청사 제3별관
+      * 봉투에 사건번호 기재
+
+2020-02-08
+  대학생 입학‧개강 대비 노트북 추천 ‘2020 노트북 아카데미 대전’-
+    https://www.ilovepc.co.kr/news/articleView.html?idxno=33342
